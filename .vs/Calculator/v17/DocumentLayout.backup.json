@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\dhang\\Desktop\\c_repos\\Calculator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AF236294-90E8-401E-8887-ECC43AB4592A}|CalculatorLibrary\\CalculatorLibrary.csproj|c:\\users\\dhang\\desktop\\c_repos\\calculator\\calculatorlibrary\\calculatorlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF236294-90E8-401E-8887-ECC43AB4592A}|CalculatorLibrary\\CalculatorLibrary.csproj|solutionrelative:calculatorlibrary\\calculatorlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{58164338-7F53-428D-B73F-D48E3D81B8A1}|Calculator\\Calculator.csproj|c:\\users\\dhang\\desktop\\c_repos\\calculator\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58164338-7F53-428D-B73F-D48E3D81B8A1}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CalculatorLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\dhang\\Desktop\\c_repos\\Calculator\\CalculatorLibrary\\CalculatorLibrary.cs",
+              "RelativeDocumentMoniker": "CalculatorLibrary\\CalculatorLibrary.cs",
+              "ToolTip": "C:\\Users\\dhang\\Desktop\\c_repos\\Calculator\\CalculatorLibrary\\CalculatorLibrary.cs",
+              "RelativeToolTip": "CalculatorLibrary\\CalculatorLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:15:41.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dhang\\Desktop\\c_repos\\Calculator\\Calculator\\Program.cs",
               "RelativeDocumentMoniker": "Calculator\\Program.cs",
               "ToolTip": "C:\\Users\\dhang\\Desktop\\c_repos\\Calculator\\Calculator\\Program.cs",
               "RelativeToolTip": "Calculator\\Program.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAowFYAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T15:45:27.733Z",
               "EditorCaption": ""
